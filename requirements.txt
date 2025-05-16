@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+pytesseract
+Pillow
+pdf2image
+faiss-cpu
+sentence-transformers
+requests
